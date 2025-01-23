@@ -3,3 +3,11 @@ body{
     font-family: Arial, Helvetica, sans-serif;
 
 }
+
+ul.Big{
+    font-size: 44px;
+}
+
+.imageMiddle{
+margin-left: 500px;
+}
